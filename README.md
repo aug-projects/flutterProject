@@ -33,25 +33,14 @@ The app will use SQLite to store user data, including quiz questions and answers
   <img src="art/Screenshot_2023-05-19-00-22-35-699_com.example.quiz_app.jpg" alt="Image 1" style="width:33%;">
   <img src="art/Screenshot_2023-05-19-00-22-38-328_com.example.quiz_app.jpg" alt="Image 2" style="width:33%;">
   <img src="art/Screenshot_2023-05-18-23-27-15-895_com.example.quiz_app.jpg" alt="Image 1" style="width:33%;">
-</div>
-
-
-<div style="display:flex;">
   <img src="art/Screenshot_2023-05-18-23-27-09-753_com.example.quiz_app.jpg" alt="Image 2" style="width:33%;">
   <img src="art/Screenshot_2023-05-18-23-26-45-626_com.example.quiz_app.jpg" alt="Image 3" style="width:33%;">
-</div>
-
-<div style="display:flex;">
   <img src="art/Screenshot_2023-05-18-23-26-30-163_com.example.quiz_app.jpg" alt="Image 1" style="width:33%;">
   <img src="art/Screenshot_2023-05-18-23-26-35-715_com.example.quiz_app.jpg" alt="Image 2" style="width:33%;">
   <img src="art/Screenshot_2023-05-18-23-26-37-888_com.example.quiz_app.jpg" alt="Image 3" style="width:33%;">
-</div>
-
-<div style="display:flex;">
   <img src="art/Screenshot_2023-05-18-23-27-23-674_com.example.quiz_app.jpg" alt="Image 1" style="width:33%;">
   <img src="art/Screenshot_2023-05-19-00-21-43-748_com.example.quiz_app.jpg" alt="Image 1" style="width:33%;">
   <img src="art/Screenshot_2023-05-19-00-21-47-177_com.example.quiz_app.jpg" alt="Image 1" style="width:33%;">
 </div>
-
 
 
